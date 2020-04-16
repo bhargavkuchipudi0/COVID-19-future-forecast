@@ -20,9 +20,9 @@
     the three models.
 
 ## SVM Forcast 
-    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/SMV.png)
+    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/SMV.png?raw=true)
 ## Linear Regression Forcast 
-    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/LinearRegression.png)
+    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/LinearRegression.png?raw=true)
 ## Bayesia Ridge Regression Forcast 
-    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/BayesianRidgeRegression.png)
+    ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/BayesianRidgeRegression.png?raw=true)
 
