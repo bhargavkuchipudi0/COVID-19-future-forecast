@@ -10,14 +10,14 @@
     expanding the project by predicting the future forecast for the coming 10 days.
 
 ## Data Source
-    The data souce I rely on is from European Centre for Disease Prevention and Control. The following link is the
-    reference for the csv file https://covid.ourworldindata.org/data/ecdc/total_cases.csv
+    The data souce I rely on is from European Centre for Disease Prevention and Control. The following link is
+    the reference for the csv file https://covid.ourworldindata.org/data/ecdc/total_cases.csv
 
 ## Data Pre-Processing
-    I have tried predicting the future values with the column 'world' in the data set. But, Unfortunatly the models
-    are not able to predict the values as the data from the initial days doesnot have a proper relation. So, I tried
-    eliminating few rows(days) and started worling on the data from JAN 21 2020. After that I got good results from
-    the three models.
+    I have tried predicting the future values with the column 'world' in the data set. But, Unfortunatly the
+    models are not able to predict the values as the data from the initial days doesnot have a proper relation.
+    So, I tried eliminating few rows(days) and started worling on the data from JAN 21 2020. After that I got
+    good results from the three models.
 
 
 ![SVM forcasted values for next 10 days](https://github.com/bhargavkuchipudi0/COVID-19-future-forecast/blob/master/results/SMV.png?raw=true)
